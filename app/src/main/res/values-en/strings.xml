@@ -66,6 +66,4 @@
     <string name="view_no_points">This trail has no recorded positions</string>
     <string name="format_speed">%1$.1f km/h</string>
     <string name="format_distance_m">%1$d m</string>
-
-
 </resources>
